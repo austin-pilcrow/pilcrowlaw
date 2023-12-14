@@ -11,6 +11,7 @@ section {
   background-color:rgb(2,2,50);
   color:white;
   padding-top:20px;
+  height:100%;
 }
 
 .s1-back-photo-container {
@@ -442,7 +443,7 @@ section {
   background-color:rgb(32, 2, 50);
   color:white;
   padding-top:20px;
-  height:100vh;
+  height:100%;
 }
 
 .s4-back-photo-container {
@@ -622,7 +623,7 @@ section {
 }
 
 .s5-top {
-  margin-top:15vh;
+  margin-top:10vh;
   width:600px;
   font-family:'Work Sans';
   font-size:50px;
@@ -703,7 +704,7 @@ section {
   justify-content:center;
   align-items:center;
   transition-duration:.2s;
-  margin-bottom:10vh;
+  margin-bottom:5vh;
 }
 
 .s5-button {
